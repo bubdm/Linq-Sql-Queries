@@ -1,0 +1,15 @@
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\bin\Debug\Linq-Sql-Queries.exe.config
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\bin\Debug\Linq-Sql-Queries.exe
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\bin\Debug\Linq-Sql-Queries.pdb
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\bin\Debug\EntityFramework.dll
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\bin\Debug\EntityFramework.xml
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\obj\Debug\Linq-Sql-Queries.csprojAssemblyReference.cache
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\obj\Debug\Linq_Sql_Queries.Form1.resources
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\obj\Debug\Linq_Sql_Queries.Properties.Resources.resources
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\obj\Debug\Linq-Sql-Queries.csproj.GenerateResource.cache
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\obj\Debug\Linq-Sql-Queries.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\obj\Debug\Linq-Sql-Queries.csproj.CopyComplete
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\obj\Debug\Linq-Sql-Queries.exe
+C:\Users\ihsan\Desktop\Linq-Sql-Queries\Linq-Sql-Queries\obj\Debug\Linq-Sql-Queries.pdb
